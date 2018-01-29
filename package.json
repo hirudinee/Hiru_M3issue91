@@ -1,0 +1,8 @@
+{
+  "name": "Hiru_M3issue91",
+  "version": "29.01.18",
+  "dependencies": {
+    "aws-sdk": "2.176.0",
+    "@slappforge/slappforge-sdk": "0.0.3"
+  }
+}
