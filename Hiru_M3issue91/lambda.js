@@ -18,7 +18,7 @@ exports.handler = function (event, context, callback) {
             // within this block
         })
     }, function (error) {
-        console.log('error ', error);
+        console.log('error sample', error);
         // implement error handling logic here
     });
 
